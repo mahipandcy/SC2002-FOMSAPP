@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"administrator"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"branch"},{"l":"cart"},{"l":"enumpack"},{"l":"exceptionhandling"},{"l":"filter"},{"l":"item"},{"l":"operation"},{"l":"operation.customerui"},{"l":"operation.staffui"},{"l":"order"},{"l":"payment"},{"l":"staff"},{"l":"system"}];updateSearchResults();
