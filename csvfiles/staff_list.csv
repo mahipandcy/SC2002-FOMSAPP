@@ -1,0 +1,9 @@
+Name,Staff Login ID,Password,Role,Gender,Age,Branch
+Kumar Blackmore,kumarB,password,S,MALE,32,NTU
+Alexei,Alexei,password,M,MALE,25,NTU
+Tom Chan,TomC,password,M,MALE,56,JP
+Alica Ang,AlicaA,password,M,FEMALE,27,JE
+Mary lee,MaryL,password,S,FEMALE,44,JE
+Justin Loh,JustinL,password,S,MALE,49,JP
+Boss,boss,password,A,FEMALE,62,boss
+Elon Musk,ElonM,password,S,MALE,55,NTU
