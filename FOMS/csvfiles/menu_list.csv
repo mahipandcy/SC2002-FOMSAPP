@@ -1,0 +1,11 @@
+ItemId,Name,Price,Branch,Category,Description
+fries,FRIES,3.2,NTU,SIDE,Cut Potato
+set,3PC set meal,9.9,NTU,SET_MEAL,3 pieces of chicken
+nugget,chicken nugget,6.6,NTU,SIDE,Some pieces of mashed chicken
+coke,coke,2.5,NTU,DRINK,black water
+pepsi,pepsi,2.1,NTU,DRINK,brown water with gas
+fish,CAJUN FISH,5.2,JP,BURGER,Fish with Spice
+nugget,chicken nugget,6.9,JP,SIDE,Some pieces of mashed chicken
+salad,COLE SLAW,2.7,JE,SIDE,Cold vegetable
+set,3PC set meal,10.4,JE,SET_MEAL,3 pieces of chicken
+pepsi,pepsi,2.1,JE,DRINK,brown water with gas
